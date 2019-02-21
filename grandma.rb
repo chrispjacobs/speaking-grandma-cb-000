@@ -24,5 +24,5 @@ def speak_to_grandma(sentence)
   end
 end
 
-puts "HELLO, GRANDMA!"
-speak_to_grandma("HELLO, GRANDMA!")
+puts "I LOVE YOU GRANDMA!"
+speak_to_grandma("I LOVE YOU GRANDMA!")
